@@ -88,6 +88,7 @@ DATABASES = {
         "PASSWORD": "django",
         "HOST": "localhost",
         "PORT": "5432",
+        "TEST": {"NAME": "test_database",},
     }
 }
 
